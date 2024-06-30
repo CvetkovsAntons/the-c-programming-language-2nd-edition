@@ -1,2 +1,2 @@
-# the-c-programming-language-2nd-edition
-The C Programming Language (2nd Edition)
+# Me The C Programming Language (2nd Edition)
+In this repository, tasks from The C Programming Language book are stored
