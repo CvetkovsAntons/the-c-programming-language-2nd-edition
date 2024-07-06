@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// this program prints out Fahrenheit-Celsius table from Fahrenheit equals 0 to 300 with step of 20
+// this program prints out Celsius-Fahrenheit table from Celsius equals 0 to 300 with step of 20
 int main() {
     double celsius = 0, fahrenheit;
     int max = 300, step = 20;
